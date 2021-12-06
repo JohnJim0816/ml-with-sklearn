@@ -1,24 +1,23 @@
-# [机器学习sklearn实战](https://github.com/datawhalechina/machine-learning-toy-code)
+# [sklearn机器学习实战](https://github.com/datawhalechina/machine-learning-toy-code)
 
 本项目通过sklearn学习库实现一些常见的机器学习算法，来帮助读者分析各个算法的特点。
 
 ## 内容
 
-|    内容    | 备注 |      |
-| :--------: | :--: | ---- |
-|   欠拟合   |      |      |
-|  交叉验证  |      |      |
-|  线性回归  |      |      |
-|  逻辑回归  |      |      |
-| 多分类学习 |      |      |
-|   决策树   |      |      |
-|  神经网络  |      |      |
-| 支持向量机 |      |      |
-|   贝叶斯   |      |      |
-|  集成学习  |      |      |
-|    聚类    |      |      |
-|    降维    |      |      |
-|            |      |      |
+| 算法类别 |  算法名称  | 备注 |      |
+| :------: | :--------: | :--: | ---- |
+|   回归   |  线性回归  |      |      |
+|   分类   |  逻辑回归  |      |      |
+|          |   贝叶斯   |      |      |
+|          | 支持向量机 |      |      |
+|          |   决策树   |      |      |
+|   聚类   | AGNES算法  |      |      |
+|          | K均值聚类  |      |      |
+|          | DBSCAN算法 |      |      |
+|   降维   | 主成分分析 |      |      |
+|          |  LDA算法   |      |      |
+|   集成   |            |      |      |
+|  可视化  |            |      |      |
 
 
 
@@ -36,11 +35,5 @@
   </tbody>
 </table>
 
-## Refs
-
-
-统计学习方法、西瓜书、机器学习实战
-
-[github-Dod-o](https://github.com/Dod-o/Statistical-Learning-Method_Code)
 
 https://github.com/fengdu78/lihang-code
